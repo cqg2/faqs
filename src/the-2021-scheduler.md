@@ -39,7 +39,8 @@ would clear the review history, and vice versa.
 
 The new count is now capped by the review count. If you have limits of 200
 reviews and 20 new cards, and 190 reviews are due, only 10 new cards will be
-introduced.
+introduced. From Anki 2.1.61 this feature is optional and can be disabled from 
+the deck options screen.    
 
 In Anki 2.1.50+/AnkiMobile 2.0.84+, each deck's limit affects the number of
 cards that will be drawn from that deck and its subdecks. Limits are applied
